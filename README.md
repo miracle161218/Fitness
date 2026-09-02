@@ -7,6 +7,8 @@
 ## 内容导航
 
 - [完整知识库](docs/fitness-knowledge-base.md)：增肌减脂原理、饮食结构与调整方法、三分化训练动作、动作组数与次数、训练术语、12 周进阶计划、有氧恢复和每周复盘。
+- [减脂饮食规划](docs/fat-loss-nutrition.md)：三大营养素、三餐结构、食物换算、每周评估与调整规则。
+- [减脂周记录表](data/fat-loss-weekly-check-in.csv)：可在 VS Code、Excel 或 Numbers 中记录并修改。
 - [可视化总览](assets/training-overview.html)：力量训练、饮食、恢复、三天训练循环、动作组数/次数及反馈闭环。
 
 ## 三分化结构
